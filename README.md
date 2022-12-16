@@ -1,7 +1,7 @@
 ### <div align="center">I'm Falco, a full-stack developer 👨‍💻 working with Java, Angular and Python</div>  
   
 
-<div align="center">🌱 I’m currently learning GoLang and Vue.j</div>  
+<div align="center">🌱 I’m currently learning GoLang and Vue.js</div>  
   
 
 <div align="center">📷 I’m a passionate hobby photographer</div>  
